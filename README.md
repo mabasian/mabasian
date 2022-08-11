@@ -1,10 +1,8 @@
-<div width="100%"><img src="https://github.com/mabasian/mabasian/blob/main/20220421_131447.jpg" width="100%" align="center"></div>
+<div width="100%"><img src="[https://github.com/mabasian/mabasian/blob/main/20220421_131447.jpg](https://photos.app.goo.gl/xa9yov99Bmhibju9A)" width="100%" align="center"></div>
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">Aspiring Developer(focused on FrontEnd) which interested in the Vue.js programming language.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mabasian&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
 
 Aspiring Developer(focused on FrontEnd) which interested in the Vue.js programming language.
