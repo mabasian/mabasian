@@ -1,4 +1,10 @@
-### Hi, I'm Reza 👋
+[![MasterHead](https://www.instagram.com/p/CcnIi3_Db4h/)]()
+
+<h1 align="center">Hi 👋, I'm Reza</h1>
+<h3 align="center">Aspiring Developer(focused on FrontEnd) which interested in the Vue.js programming language.</h3>
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 
 
 Aspiring Developer(focused on FrontEnd) which interested in the Vue.js programming language.
