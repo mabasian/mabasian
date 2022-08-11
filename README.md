@@ -21,6 +21,7 @@ Doing SEO is my fun.
 
 ## 📫 How to reach me: 
 
+[![Discord](https://img.shields.io/badge/discord-Follow-7289d9?logo=discord)](https://discordapp.com/users/mabasian#6721)
 [![twitter](https://img.shields.io/twitter/follow/mabasian1?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/mabasian1)
 [![Instagram](https://img.shields.io/badge/instagram-Follow-e56969?logo=instagram)](https://www.instagram.com/mabasian)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-0077B5?logo=linkedin)](https://www.linkedin.com/in/mohammadreza-abbasian-939778161/)
