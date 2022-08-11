@@ -1,4 +1,4 @@
-<img src="[[https://github.com/mabasian/mabasian/blob/main/20220421_131447.jpg](https://photos.app.goo.gl/xa9yov99Bmhibju9A)](https://github.com/mabasian/mabasian/blob/main/20220421_131447.jpg)" width="100%" align="center">
+<img src="https://github.com/mabasian/mabasian/blob/main/20220421_131447.jpg" width="100%" align="center">
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">Aspiring Developer(focused on FrontEnd) which interested in the Vue.js programming language.</h3>
