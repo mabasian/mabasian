@@ -5,9 +5,8 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
-Aspiring Developer(focused on FrontEnd) which interested in the Vue.js programming language.
 
-Doing SEO is my fun.
+Doing SEO and UI design are my fun.
 
 - 🔭 I’m currently working on [ROCKLOGIC GmbH](https://rocklogic.at/), [STEREUM](https://stereum.net/)
 
