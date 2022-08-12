@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/54101509/184419127-3e908648-4ccc-4961-acef-5a89b9fe8f74.jpg" width="100%" align="center">
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">Aspiring Developer(focused on FrontEnd) which interested in the Vue.js programming language.</h3>
+<h3 align="center">Aspiring Developer(more focused on FrontEnd) which interested in the Vue.js programming language.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 
