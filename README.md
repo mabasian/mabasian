@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">Aspiring Developer(more focused on FrontEnd) which interested in the Vue.js programming language.</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/54101509/184439711-88e3c0fd-acb0-40ea-9661-c706d780131a.gif"/>
 
 
 
