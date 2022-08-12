@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">Aspiring Developer(more focused on FrontEnd) which interested in the Vue.js programming language.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/54101509/184441268-d61437f8-e9ab-4045-852e-a032293b1bc7.gif"/>
+<img align="right" alt="Coding" width="400" src="https://github.com/mabasian/mabasian/issues/1"/>
 
 
 
