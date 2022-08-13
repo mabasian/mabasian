@@ -13,7 +13,7 @@ Doing SEO and UI design are my fun.
 - 🌱 I’m currently learning Nodejs.
 
 #### 💾 Which technology I know?
-<code><img height="20" alt="vue" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" alt="vue" src="https://user-images.githubusercontent.com/54101509/184472855-0cbf049f-d801-4195-894a-cfa96893152f.png"></code>
 <code><img height="20" alt="nuxt" src="https://user-images.githubusercontent.com/54101509/184419973-11957fe2-19f2-46e7-bd6a-6d9e1c763bb6.png"></code>
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
