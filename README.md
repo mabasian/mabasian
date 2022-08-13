@@ -17,7 +17,7 @@ Doing SEO and UI design are my fun.
 <code><img height="20" alt="nuxt" src="https://user-images.githubusercontent.com/54101509/184419973-11957fe2-19f2-46e7-bd6a-6d9e1c763bb6.png"></code>
 <code><img height="20" alt="javascript" src="https://user-images.githubusercontent.com/54101509/184472913-e70f7121-50b9-4940-8271-2ea995900c3a.svg"></code>
 <code><img height="20" alt="nodejs" src="https://user-images.githubusercontent.com/54101509/184472991-41da82cf-ef5c-4f0f-b374-b0ead8e8eaf8.png"></code>
-<code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="typescript" src="https://user-images.githubusercontent.com/54101509/184473046-a9d0e73a-c701-4988-909d-f2213955d53f.png"></code>
 <code><img height="20" alt="mongo" src="https://user-images.githubusercontent.com/54101509/184420550-2c04772f-fee2-48f9-a3fe-952882ee0406.png"></code>
 
 
