@@ -23,7 +23,7 @@ Doing SEO and UI design are my fun!
 
 ## 📫 How to reach me: 
 [![twitter](https://img.shields.io/twitter/follow/mabasian1?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/mabasian1)
-[![Discord](https://img.shields.io/badge/Discord-Follow-7289d9?logo=discord)](https://discordapp.com/users/mabasian#6721)
+[![Discord](https://img.shields.io/badge/Discord-Connect-7289d9?logo=discord)](https://discordapp.com/users/mabasian#6721)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-F5F5F5?logo=linkedin)](https://www.linkedin.com/in/mohammadreza-abbasian-939778161/)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-e56969?logo=instagram)](https://www.instagram.com/mabasian)
 [![telegram](https://img.shields.io/badge/Telegram-Message-24A1DF?logo=telegram)](https://t.me/Mabasian1)
