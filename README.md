@@ -8,9 +8,9 @@
 
 Doing SEO and UI design are my fun!
 
-- 🔭 I’m currently working on [ROCKLOGIC GmbH](https://rocklogic.at/), [STEREUM](https://stereum.net/)
+- 👨🏻‍💻 I’m currently working on [ROCKLOGIC GmbH](https://rocklogic.at/), [STEREUM](https://stereum.net/)
 
-- 🌱 I’m currently learning Nodejs.
+- 📚 I’m currently learning Nodejs.
 
 #### 💾 Which technology I know?
 <code><img height="20" alt="vue" src="https://user-images.githubusercontent.com/54101509/184472855-0cbf049f-d801-4195-894a-cfa96893152f.png"></code>
