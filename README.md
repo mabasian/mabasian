@@ -19,7 +19,7 @@ Doing SEO and UI design are my fun!
 <code><img height="20" alt="typescript" src="https://user-images.githubusercontent.com/54101509/184473046-a9d0e73a-c701-4988-909d-f2213955d53f.png"></code>
 <code><img height="20" alt="nodejs" src="https://user-images.githubusercontent.com/54101509/184472991-41da82cf-ef5c-4f0f-b374-b0ead8e8eaf8.png"></code>
 <code><img height="20" alt="mongo" src="https://user-images.githubusercontent.com/54101509/184420550-2c04772f-fee2-48f9-a3fe-952882ee0406.png"></code>
-<code><img height="20" alt="python" src="https://user-images.githubusercontent.com/54101509/187019069-99a73771-5a35-423e-ae55-cda449d045b1.png"></code>
+<code><img height="20" alt="Docker" src="https://user-images.githubusercontent.com/54101509/188263391-2af3b55f-b247-4b9d-9dfa-45620d620df0.png"></code>
 <code><img height="20" alt="github" src="https://user-images.githubusercontent.com/54101509/187018976-fcfd0f36-c465-4448-9399-dd805ad421a5.png"></code>
 
 ## 📫 How to reach me: 
