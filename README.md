@@ -20,7 +20,7 @@ Doing SEO and UI design are my fun!
 <code><img height="20" alt="nodejs" src="https://user-images.githubusercontent.com/54101509/184472991-41da82cf-ef5c-4f0f-b374-b0ead8e8eaf8.png"></code>
 <code><img height="20" alt="mongo" src="https://user-images.githubusercontent.com/54101509/184420550-2c04772f-fee2-48f9-a3fe-952882ee0406.png"></code>
 <code><img height="20" alt="Docker" src="https://user-images.githubusercontent.com/54101509/188263391-2af3b55f-b247-4b9d-9dfa-45620d620df0.png"></code>
-<code><img height="20" alt="github" src="https://user-images.githubusercontent.com/54101509/187018976-fcfd0f36-c465-4448-9399-dd805ad421a5.png"></code>
+<code><img height="20" alt="github" src="https://user-images.githubusercontent.com/54101509/189401422-40aecb7b-93b4-4592-975a-4fe53ee4924d.png"></code>
 
 ## 📫 How to reach me: 
 [![twitter](https://img.shields.io/twitter/follow/mabasian1?label=followers&logo=twitter&color=%23007ec6&style=plastic)](https://twitter.com/mabasian1)
