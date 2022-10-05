@@ -30,7 +30,7 @@ Doing SEO and UI design are my fun!
 [![telegram](https://img.shields.io/badge/Telegram-Message-24A1DF?logo=telegram)](https://t.me/Mabasian1)
 
 
-<img width="400" align="center" src="https://github-readme-stats.vercel.app/api?username=mabasian&count_private=true&theme=radical&show_icons=true" /> 
+<img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=mabasian&count_private=true&theme=radical&show_icons=true" /> 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabasian&hide=html,blade,css&layout=compact&theme=radical)](https://github.com/mabasian/)
 
