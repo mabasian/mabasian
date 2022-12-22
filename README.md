@@ -6,7 +6,7 @@
 
 
 
-Doing SEO and UI design are my fun!
+Doing UI design and SEO are my fun!
 
 - 👨🏻‍💻 I’m currently working on [ROCKLOGIC GmbH](https://rocklogic.at/), [STEREUM](https://stereum.net/)
 
