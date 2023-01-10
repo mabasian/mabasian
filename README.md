@@ -2,7 +2,7 @@
 
 <h1 align="center"><img width="50" src="https://user-images.githubusercontent.com/54101509/184473351-9a66aa92-d8f2-45bf-a9a7-26cefa437bda.gif"/>Hi, I'm Reza</h1>
 <h3 align="center">Aspiring Developer(more focused on FrontEnd) which interested in the Vue.js programming language.</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/54101509/184442024-53434f7a-3b7e-4905-aa1d-11ba4a4d23df.gif"/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/54101509/211520607-ce609d96-9642-4c36-a7e3-db0cbf0ccf19.png"/>
 
 
 
