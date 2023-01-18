@@ -32,9 +32,9 @@ Doing UI design and SEO are my fun!
 
 <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=mabasian&count_private=true&theme=radical&show_icons=true" /> 
 
-![Anurag's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=mabasian&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabasian&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabasian&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabasian&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabasian&hide=html,line,css&layout=compact&theme=radical)](https://github.com/mabasian/)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=mabasian&hide=html,line,css&layout=compact&theme=radical)](https://github.com/mabasian/)
 
 
  
