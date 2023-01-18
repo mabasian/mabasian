@@ -32,6 +32,6 @@ Doing UI design and SEO are my fun!
 
 <img width="500" align="center" src="https://github-readme-stats.vercel.app/api?username=mabasian&count_private=true&theme=radical&show_icons=true" /> 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabasian&show_icons=true&theme=dracula) [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mabasian)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=mabasian)](https://github.com/anuraghazra/github-readme-stats)
 
  
