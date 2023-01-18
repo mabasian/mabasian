@@ -34,7 +34,7 @@ Doing UI design and SEO are my fun!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabasian&show_icons=true&theme=dracula) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabasian&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mabasian&hide=html,line,css&layout=compact&theme=radical)](https://github.com/mabasian/)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=mabasian&hide=html,line,css&layout=compact&theme=radical)](https://github.com/mabasian/)
 
 
  
