@@ -29,6 +29,6 @@ Doing UI design and SEO are my fun!
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-e56969?logo=instagram)](https://www.instagram.com/mabasian)
 [![telegram](https://img.shields.io/badge/Telegram-Message-24A1DF?logo=telegram)](https://t.me/Mabasian1)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabasian&show_icons=true&theme=synthwave)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mabasian&show_icons=true&theme=merko)
 
 
