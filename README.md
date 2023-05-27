@@ -15,7 +15,7 @@ Doing UI design and SEO are my fun!
 #### 💾 Which technology I know?
 <code><img height="20" alt="vue" src="https://user-images.githubusercontent.com/54101509/184472855-0cbf049f-d801-4195-894a-cfa96893152f.png"></code>
 <code><img height="20" alt="nuxt" src="https://user-images.githubusercontent.com/54101509/184419973-11957fe2-19f2-46e7-bd6a-6d9e1c763bb6.png"></code>
-<code><img height="20" alt="electronjs" src="https://github.com/mabasian/mabasian/issues/1#issuecomment-1565706238"></code>
+<code><img height="20" alt="electronjs" src="https://user-images.githubusercontent.com/54101509/241440241-6389fefd-5281-4281-ae5c-8564b93b4659.png"></code>
 <code><img height="20" alt="javascript" src="https://user-images.githubusercontent.com/54101509/184472913-e70f7121-50b9-4940-8271-2ea995900c3a.svg"></code>
 <code><img height="20" alt="typescript" src="https://user-images.githubusercontent.com/54101509/184473046-a9d0e73a-c701-4988-909d-f2213955d53f.png"></code>
 <code><img height="20" alt="nodejs" src="https://user-images.githubusercontent.com/54101509/184472991-41da82cf-ef5c-4f0f-b374-b0ead8e8eaf8.png"></code>
