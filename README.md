@@ -1,11 +1,11 @@
 <img src="https://user-images.githubusercontent.com/54101509/184419127-3e908648-4ccc-4961-acef-5a89b9fe8f74.jpg" width="100%" align="center">
 
 <h1 align="center"><img width="50" src="https://user-images.githubusercontent.com/54101509/184473351-9a66aa92-d8f2-45bf-a9a7-26cefa437bda.gif"/>Hi, I'm Reza</h1>
-<h3 align="left">Versatile Software Developer | Full-Stack & Desktop Apps | Exploring Machine Learning
+<h3 align="left">Versatile Software Developer | Full-Stack & Desktop Apps | Exploring Machine Learning</h3>
 
-Passionate about building efficient and scalable applications, I specialize in full-stack web development and desktop applications using technologies like JavaScript (Node.js, Vue.js, React, Nuxt.js, Electron.js) and Python. I focus on user experience, clean code, and maintainability, always looking for innovative solutions.
+<p>Passionate about building efficient and scalable applications, I specialize in full-stack web development and desktop applications using technologies like JavaScript (Node.js, Vue.js, React, Nuxt.js, Electron.js) and Python. I focus on user experience, clean code, and maintainability, always looking for innovative solutions.
 
-Currently, I’m expanding my expertise in machine learning and exploring TypeScript to enhance my development workflow. Open to collaborations and new opportunities! </h3>
+Currently, I’m expanding my expertise in machine learning and exploring TypeScript to enhance my development workflow. Open to collaborations and new opportunities! </p>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/54101509/214411251-5f098de5-52e5-4a1f-8edb-514ff09b7a06.gif"/>
 
 
