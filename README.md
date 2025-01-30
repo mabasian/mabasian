@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/54101509/184419127-3e908648-4ccc-4961-acef-5a89b9fe8f74.jpg" width="100%" align="center">
 
 <h1 align="center"><img width="50" src="https://user-images.githubusercontent.com/54101509/184473351-9a66aa92-d8f2-45bf-a9a7-26cefa437bda.gif"/>Hi, I'm Reza</h1>
-<h3 align="left">DVersatile Software Developer | Full-Stack & Desktop Apps | Exploring Machine Learning
+<h3 align="left">Versatile Software Developer | Full-Stack & Desktop Apps | Exploring Machine Learning
 
 Passionate about building efficient and scalable applications, I specialize in full-stack web development and desktop applications using technologies like JavaScript (Node.js, Vue.js, React, Nuxt.js, Electron.js) and Python. I focus on user experience, clean code, and maintainability, always looking for innovative solutions.
 
